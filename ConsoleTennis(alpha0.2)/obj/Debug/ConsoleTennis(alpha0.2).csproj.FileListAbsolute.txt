@@ -26,3 +26,10 @@ F:\ІТ-82\C#\ConsoleTennis(alpha0.2)\ConsoleTennis(alpha0.2)\obj\Debug\ConsoleT
 F:\ІТ-82\C#\ConsoleTennis(alpha0.2)\ConsoleTennis(alpha0.2)\obj\Debug\ConsoleTennis(alpha0.2).csproj.CoreCompileInputs.cache
 F:\ІТ-82\C#\ConsoleTennis(alpha0.2)\ConsoleTennis(alpha0.2)\obj\Debug\ConsoleTennis(alpha0.2).exe
 F:\ІТ-82\C#\ConsoleTennis(alpha0.2)\ConsoleTennis(alpha0.2)\obj\Debug\ConsoleTennis(alpha0.2).pdb
+F:\ІТ-82\C#\Pong\ConsoleTennis(alpha0.2)\bin\Debug\ConsoleTennis(alpha0.2).exe.config
+F:\ІТ-82\C#\Pong\ConsoleTennis(alpha0.2)\bin\Debug\ConsoleTennis(alpha0.2).exe
+F:\ІТ-82\C#\Pong\ConsoleTennis(alpha0.2)\bin\Debug\ConsoleTennis(alpha0.2).pdb
+F:\ІТ-82\C#\Pong\ConsoleTennis(alpha0.2)\obj\Debug\ConsoleTennis(alpha0.2).csprojAssemblyReference.cache
+F:\ІТ-82\C#\Pong\ConsoleTennis(alpha0.2)\obj\Debug\ConsoleTennis(alpha0.2).csproj.CoreCompileInputs.cache
+F:\ІТ-82\C#\Pong\ConsoleTennis(alpha0.2)\obj\Debug\ConsoleTennis(alpha0.2).exe
+F:\ІТ-82\C#\Pong\ConsoleTennis(alpha0.2)\obj\Debug\ConsoleTennis(alpha0.2).pdb
